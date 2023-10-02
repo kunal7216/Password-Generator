@@ -1,3 +1,4 @@
+
 const lengthSlider = document.querySelector(".pass-length input"),
   options = document.querySelectorAll(".option input"),
   copyIcon = document.querySelector(".input-box span"),
